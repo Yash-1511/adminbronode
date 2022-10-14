@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.vscode": true
+    },
+    "search.exclude": {
+        "**/node_modules": false
+    },
+    "files.watcherExclude": {
+        "**/node_modules/*/**": false
+    }
+}
